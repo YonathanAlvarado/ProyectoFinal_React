@@ -1,0 +1,22 @@
+.item-list-container {
+    padding: 20px;
+    margin-top: 80px;
+
+}
+
+.item-list-container h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+
+.item-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 20px;
+}
